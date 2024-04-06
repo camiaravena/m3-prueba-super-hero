@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+}
+
+header {
+    text-align: center;
+}
+
+main {
+    text-align: center;
+}
+
+#searchSection {
+    background-color: whitesmoke; 
+}
+
